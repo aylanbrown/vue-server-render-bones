@@ -12,7 +12,6 @@
     "build": "rimraf dist && npm run build:client && npm run build:server"
   },
   "dependencies": {
-    "element-ui": "^2.3.3",
     "koa": "^2.5.0",
     "style-loader": "^0.20.3",
     "vue": "^2.5.16",
